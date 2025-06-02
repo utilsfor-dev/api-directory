@@ -45,7 +45,6 @@ Please use one of the following categories for your API entry:
 | `Finance`        | Finance       |
 | `News`           | News          |
 | `Communication`  | Communication |
-| `Misc`           | Misc          |
 
 > **Note:** 
 > Use the `cat_id` value (e.g., `"Development"`, `"Weather"`) for the `category` field in your API entry.
