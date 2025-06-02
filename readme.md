@@ -36,15 +36,16 @@ Please use one of the following categories for your API entry:
 
 | `cat_id`       | Name          |
 |----------------|---------------|
-| Development    | Development   |
-| Weather        | Weather       |
-| Payment        | Payment       |
-| Geography      | Geography     |
-| Images         | Images        |
-| Email          | Email         |
-| Finance        | Finance       |
-| News           | News          |
-| Communication  | Communication |
+| `Development`    | Development   |
+| `Weather`        | Weather       |
+| `Payment`        | Payment       |
+| `Geography`      | Geography     |
+| `Images`         | Images        |
+| `Email`          | Email         |
+| `Finance`        | Finance       |
+| `News`           | News          |
+| `Communication`  | Communication |
+| `Misc`           | Misc          |
 
 > **Note:** 
 > Use the `cat_id` value (e.g., `"Development"`, `"Weather"`) for the `category` field in your API entry.
