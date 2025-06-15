@@ -129,5 +129,18 @@
     "https": true,
     "cors": true,
     "rateLimit": "Varies by service"
+  },
+  {
+    "id": "imagerouter",
+    "name": "Image Router",
+    "description": "Unified interface for AI image & video generation.",
+    "category": "Images",
+    "url": "https://imagerouter.io",
+    "pricing": "freemium",
+    "documentation": "https://docs.imagerouter.io/",
+    "auth": true,
+    "https": true,
+    "cors": null,
+    "rateLimit": "Varies by service"
   }
 ]
