@@ -129,5 +129,18 @@
     "https": true,
     "cors": true,
     "rateLimit": "Varies by service"
+  },
+  {
+    "id": "hol_registry_broker",
+    "name": "Universal Agentic Registry API (HOL)",
+    "description": "Universal discovery layer for AI agents and MCP servers.",
+    "category": "Development",
+    "url": "https://hol.org/registry/api/v1",
+    "pricing": "free",
+    "documentation": "https://hol.org/docs/registry-broker/",
+    "auth": true,
+    "https": true,
+    "cors": true,
+    "rateLimit": "Free tier available"
   }
 ]
