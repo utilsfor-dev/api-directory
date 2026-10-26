@@ -129,5 +129,16 @@
     "https": true,
     "cors": true,
     "rateLimit": "Varies by service"
+  },
+  {
+    "id": "ecommerce_data_api",
+    "name": "Ecommerce Data API",
+    "description": "Paid REST API and hosted MCP service for Amazon product, keyword, review, traffic, market and sales-estimate data for ecommerce applications and AI agent workflows.",
+    "category": "Development",
+    "url": "https://ecommercedataapi.com",
+    "pricing": "paid",
+    "documentation": "https://ecommercedataapi.com/en/docs",
+    "auth": true,
+    "https": true
   }
 ]
