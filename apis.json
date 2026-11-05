@@ -129,5 +129,16 @@
     "https": true,
     "cors": true,
     "rateLimit": "Varies by service"
+  },
+  {
+    "id": "agentseo",
+    "name": "AgentSEO",
+    "description": "REST API for SEO and answer engine optimization (AEO), with structured SERP results, keyword research, rank tracking, content gap analysis, and AI visibility checks. Includes 100 one-time live credits without a card.",
+    "category": "Development",
+    "url": "https://www.agentseo.dev/",
+    "pricing": "freemium",
+    "documentation": "https://www.agentseo.dev/docs/api-reference",
+    "auth": true,
+    "https": true
   }
 ]
